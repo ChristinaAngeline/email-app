@@ -1,0 +1,26 @@
+{
+  "name": "email-app",
+  "version": "1.0.0",
+  "description": "Email Application",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.3",
+    "npm": "5.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaAngeline/email-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaAngeline/email-app/issues"
+  },
+  "homepage": "https://github.com/ChristinaAngeline/email-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
